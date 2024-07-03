@@ -1,6 +1,6 @@
 # Stock Market Short vs Long-Term Investment Strategies (AAPL, NFLX, GOOG, MSFT)
 
-With the aid of descriptive statistics, the goal is to firstly gain a deeper understanding of stock market dynamics in order to be able to inform investment strategies from given dataset. 
+With the aid of descriptive statistics, the goal is to gain a deeper understanding of stock market dynamics and inform investment strategies based on the provided dataset.
 The specific goals include:
 
 - Trend Analysis: Identifying long-term trends in stock prices and market movements.
